@@ -1,0 +1,10 @@
+{  
+
+   "$schema": "https://developer.microsoft.com/json-schemas/sp/v2/column-formatting.schema.json",      
+   "elmType": "a",      
+   "txtContent": "@currentField",      
+   "attributes": {      
+     "target": "_blank",      
+     "href": "https://learn.microsoft.com/en-us/answers/questions/852560/sharepoint-default-link-value-in-list.html"      
+     }      
+}
